@@ -1,7 +1,6 @@
 # Crypto Market Dashboard
 
-
-![dashboard](https://github.com/Faiziahmad/React-Crypto-Dashboard/assets/31207395/f1a6cee2-26df-473e-b71e-d440e4b1680c)
+![dashboard](https://github.com/Faiziahmad/React-Crypto-Dashboard/assets/31207395/d33fefd5-3fb3-4eb4-b96d-9fdd8cf7bb3a)
 
 
 ## Overview
